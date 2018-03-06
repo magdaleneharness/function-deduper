@@ -1,0 +1,19 @@
+{
+  "name": "function-deduper",
+  "version": "1.0.0",
+  "description": "Dedupe files by inspecting function names or members (initially through dumb text parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'woo, no test'"
+  },
+  "keywords": [
+    "clean",
+    "up",
+    "function"
+  ],
+  "author": "Magdalene Lee",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.0.2"
+  }
+}
